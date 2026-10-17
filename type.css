@@ -1,0 +1,26 @@
+/* ===== type v3: futuristic luxury (Heebo + Michroma) ===== */
+body{font-family:'Heebo',system-ui,sans-serif;font-weight:300;letter-spacing:.005em}
+.h1,.h2,.mnav a,.strip-track,.card-t,.tab,.panel h3,.step h3,.sent h3,.reel figcaption b{font-family:'Heebo',system-ui,sans-serif}
+.h1{font-weight:200;font-size:clamp(46px,6.6vw,92px);line-height:1.02;letter-spacing:-.025em}
+.h1 .l2{font-weight:300}
+.h2{font-weight:200;letter-spacing:-.02em;line-height:1.1}
+.h2 .gold-txt{font-weight:300}
+.lead,.sub{font-weight:300}
+.card-t,.step h3,.panel h3,.reel figcaption b{font-weight:400;letter-spacing:-.01em}
+.tab{font-size:17px;font-weight:400}
+.mnav a{font-weight:300}
+.strip-track{font-style:normal;font-weight:200;font-size:26px;letter-spacing:.04em}
+.btn-solid,.btn-line,.btn-text,.card-l{font-weight:500;letter-spacing:.02em}
+.kicker,.brand-txt,.tab small,.scale span,.carats b,.num,.ftr-sub,.card-n,.reel-n,.hp-count,.hero-word{font-family:'Michroma',system-ui,sans-serif;font-weight:400}
+.kicker{font-size:11px;letter-spacing:.38em}
+.brand-txt{font-size:14px;letter-spacing:.3em}
+.ftr-sub{font-size:10px;letter-spacing:.6em}
+.tab small{font-size:10px;letter-spacing:.12em}
+.scale span{font-size:13px}
+.carats b{font-size:12px}
+.num{font-size:34px;letter-spacing:.04em;margin-bottom:20px}
+.card-n,.reel-n{font-size:11px;letter-spacing:.2em}
+.hp-count{font-size:11px;letter-spacing:.24em}
+.hp-count b{font-size:13px}
+.hero-word{font-size:clamp(90px,15.5vw,250px);letter-spacing:.02em;bottom:-2%}
+@media (max-width:900px){.kicker{font-size:10px;letter-spacing:.24em}.brand-txt{font-size:12px;letter-spacing:.2em}.strip-track{font-size:22px}}
